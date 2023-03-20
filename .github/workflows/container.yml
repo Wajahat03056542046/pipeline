@@ -37,7 +37,7 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: Wajahat03056542046/pipeline:latest
+          tags: wajahatbinsami/pipeline:latest
 
 
 
